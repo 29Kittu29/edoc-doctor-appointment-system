@@ -49,7 +49,12 @@ Developed and customized by **Kritika Ranjan** as part of a college project and 
 
 ## 🖼️ Screenshots
 
-*(Replace with your own screenshot paths from your repo so they show correctly.)*
+## 🖼️ Screenshots
+
+| Doctor Dashboard | Patient Dashboard |
+|------------------|-------------------|
+| ![Doctor Dashboard](Screenshots/Screenshot%20(9).png) | ![Patient Dashboard](Screenshots/Screenshot%20(6).png) |
+
 
 ---
 
