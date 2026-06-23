@@ -49,8 +49,6 @@ Developed and customized by **Kritika Ranjan** as part of a college project and 
 
 ## 🖼️ Screenshots
 
-| Doctor Dashboard | Patient Dashboard |
-|------------------|-------------------|
 | ![Doctor Dashboard](Screenshots/Screenshot%20(3).png) | ![Patient Dashboard](Screenshots/Screenshot%20(4).png) | !Screenshots/Screenshot (6).png | !Screenshots/Screenshot (9).png
 
 
